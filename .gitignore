@@ -50,3 +50,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+target/
+target/aws-test-app.jar target/classes target/dependency target/generated-sources target/maven-archiver target/maven-status
