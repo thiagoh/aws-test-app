@@ -1,0 +1,6 @@
+/Users/thiagsou/dev/ES2Service/aws-test-app/src/main/java/com/amazon/thiagsou/Main.java
+/Users/thiagsou/dev/ES2Service/aws-test-app/src/main/java/com/amazon/thiagsou/BucketObjectLister.java
+/Users/thiagsou/dev/ES2Service/aws-test-app/src/main/java/com/amazon/thiagsou/BucketObjectPutter.java
+/Users/thiagsou/dev/ES2Service/aws-test-app/src/main/java/com/amazon/thiagsou/BucketCreator.java
+/Users/thiagsou/dev/ES2Service/aws-test-app/src/main/java/com/amazon/thiagsou/SQSLister.java
+/Users/thiagsou/dev/ES2Service/aws-test-app/src/main/java/com/amazon/thiagsou/BucketLister.java

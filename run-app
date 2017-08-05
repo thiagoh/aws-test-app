@@ -1,0 +1,14 @@
+#!/bin/bash
+
+main_class=$1
+shift
+
+dependencies=$(ls target/dependency/*)
+dependencies=$(echo $dependencies | tr ' ' ':')
+
+#java -cp target/aws-test-app.jar:$dependencies
+
+echo "Executing $main_class (classpath = $dependencies)"
+
+java -cp target/aws-test-app.jar:$dependencies $main_class "$@"
+
